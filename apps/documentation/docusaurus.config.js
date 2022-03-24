@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Portfolio documentation',
-  tagline: 'No one needs it but here it is :D',
+  tagline: 'No one needs it but here it is 😃',
   url: 'https://dooomit.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -42,9 +42,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Portfolio documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Portfolio logo',
           src: 'img/logo.svg',
         },
         items: [
